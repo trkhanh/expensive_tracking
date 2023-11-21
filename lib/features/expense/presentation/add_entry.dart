@@ -1,0 +1,3 @@
+class AddEntryPage extends StatefulWidget  {
+
+}
